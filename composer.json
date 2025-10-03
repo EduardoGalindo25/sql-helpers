@@ -1,5 +1,5 @@
 {
-    "name": "gabogalro/response-helpers",
+    "name": "gabogalro/sql-helpers",
     "description": "SQL helper for native PHP",
     "type": "library",
     "license": "MIT",
